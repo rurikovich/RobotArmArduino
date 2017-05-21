@@ -84,17 +84,17 @@
       <sourceFolder url="file://$MODULE_DIR$/cmake/Platform/Arduino.cmake" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/cmake/ArduinoToolchain.cmake" isTestSource="false" />
     </content>
-    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/Debug/robotArm_robotArm.ino.cpp">
-      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/Debug/robotArm_robotArm.ino.cpp" isTestSource="false" />
+    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/Debug/robotArm_robotArm.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/Debug/robotArm_robotArm.ino.cpp" isTestSource="false" />
     </content>
-    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/MinSizeRel/robotArm_robotArm.ino.cpp">
-      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/MinSizeRel/robotArm_robotArm.ino.cpp" isTestSource="false" />
+    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/MinSizeRel/robotArm_robotArm.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/MinSizeRel/robotArm_robotArm.ino.cpp" isTestSource="false" />
     </content>
-    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/RelWithDebInfo/robotArm_robotArm.ino.cpp">
-      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/RelWithDebInfo/robotArm_robotArm.ino.cpp" isTestSource="false" />
+    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/RelWithDebInfo/robotArm_robotArm.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/RelWithDebInfo/robotArm_robotArm.ino.cpp" isTestSource="false" />
     </content>
-    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/Release/robotArm_robotArm.ino.cpp">
-      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/test4-d8d1fa38/d8d1fa38/Release/robotArm_robotArm.ino.cpp" isTestSource="false" />
+    <content url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/Release/robotArm_robotArm.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion2016.1/cmake/generated/RobotArmArduino-4e6418ec/4e6418ec/Release/robotArm_robotArm.ino.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
